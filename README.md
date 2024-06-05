@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif)](https://theobassaw21.io)
 <h1 align="center">Hi 👋, I'm Theophilus</h1>
 <h3 align="center">Data analysis/Research</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Coding" width="300" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theobassaw21&label=Profile%20views&color=0e75b6&style=flat" alt="theobassaw21" /> </p>
 

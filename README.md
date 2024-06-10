@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **theobassaw246@gmail.com**
 
-- ⚡ Fun fact **I am unpredictable**
+- ⚡ Fun fact **I am an Astrophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
